@@ -13,11 +13,6 @@ We focus on the following key objectives:
 
 ---
 
-## Dataset and Context
-The data comes from an Energy repository from Our World in Data, which includes a wide range of indicators related to energy consuption, various energy sources, economic indicators, and electricity generation.
-The final datasets describes energy profiles of Slovenia and Coratia, with rows representing each country from the years 1991 to 2022, and columns that describ demographic information, energy production, energy consuption, per capita metrics, electricity demand and so forth.
----
-
 ## Methods
 
 ### 1. Principal Component Analysis (PCA) / Singular Value Decomposition (SVD)
